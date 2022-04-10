@@ -1,2 +1,11 @@
 # Next-GraphQL-Demo
-NextJS Demo
+
+Next-GraphQL-Demo
+
+```bash
+yarn install
+```
+
+```bash
+yarn dev
+```
